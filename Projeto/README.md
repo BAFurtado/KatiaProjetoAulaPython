@@ -7,4 +7,4 @@ Objetivos:
 1. Conectar ao banco de dados (simulei com o DuckDB);
 2. Executar scripts SQL que estão na pasta sql_consistência;
 3. Salvar arquivos de resultados na pasta resultado_consistência 
-sempre que houver registros na consutla SQL.
+sempre que houver registros na consulta SQL.
