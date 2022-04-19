@@ -1,7 +1,7 @@
 
 
--- Identifica os cursos em que a quantidade de ingressantes de vagas novas é 
--- maior do que o número de vagas novas
+-- Identifica os cursos em que a quantidade de ingressantes de vagas novas eh
+-- maior do que o numero de vagas novas
 
 
 SELECT 

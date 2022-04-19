@@ -8,3 +8,14 @@ Objetivos:
 2. Executar scripts SQL que estão na pasta sql_consistência;
 3. Salvar arquivos de resultados na pasta resultado_consistência 
 sempre que houver registros na consulta SQL.
+
+## How to run
+
+### Requirements
+
+1. Install duckdb 0.3.2 `píp install duckdb==0.3.2`
+2. Install xlsxwriter `pip install xlsxwriter`
+
+# Run
+
+`python processa_consistencias.py`
