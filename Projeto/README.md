@@ -4,9 +4,9 @@ Scripts elaborados para o projeto da aula de introdução ao Python oferecida pe
 Instituto de Pesquisa Econômica Aplicada -- Ipea.
 
 Objetivos: 
-1. Conectar ao banco de dados (simulei com o DuckDB);
-2. Executar scripts SQL que estão na pasta sql_consistência;
-3. Salvar arquivos de resultados na pasta resultado_consistência 
+1. Conectar ao banco de dados (simulei com o DuckDB)
+2. Executar scripts SQL que estão na pasta `sql_consistencia`
+3. Salvar arquivos de resultados na pasta `resultado_consistencia`
 sempre que houver registros na consulta SQL.
 
 ## How to run
