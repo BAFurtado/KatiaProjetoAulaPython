@@ -1,5 +1,5 @@
 -- Identifica os cursos em que todos os ingressantes ingressaram  
--- com forma de ingresso igual a Convênico PEC-G
+-- com forma de ingresso igual a Convenio PEC-G
 
 
 SELECT 

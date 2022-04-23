@@ -1,7 +1,7 @@
 
 
--- Identifica os cursos em que a quantidade de ingressantes de remanescentes é 
--- maior do que o número de vagas remanescentes
+-- Identifica os cursos em que a quantidade de ingressantes de remanescentes eh
+-- maior do que o nï¿½mero de vagas remanescentes
 
 
 SELECT 

@@ -5,13 +5,15 @@ relatórios em Excel com o resultado.
 
 import os  # biblioteca para interagir com o sistema operacional
 import duckdb  # biblioteca de conexão com o banco de dados DuckDB
+# Make sure to use version duckdb 0.3.2
+# Make sure to have xlsxwriter installed
 import pandas as pd
 
 # Constantes do projeto
 
-DUCKDB_DATABASE = r'C:\Users\katia\PycharmProjects\AulaIPEA\Projeto\censup2020.duckdb'
-DIR_SQL_CONSISTENCIAS = r'C:\Users\katia\PycharmProjects\AulaIPEA\Projeto\sql_consistencias'
-DIR_XLSX_CONSISTENCIAS = r'C:\Users\katia\PycharmProjects\AulaIPEA\Projeto\resultado_consistencias'
+DUCKDB_DATABASE = r'censup2020.duckdb'
+DIR_SQL_CONSISTENCIAS = r'sql_consistencias'
+DIR_XLSX_CONSISTENCIAS = r'resultado_consistencias'
 
 # Conexão com banco de dados
 con = duckdb.connect(DUCKDB_DATABASE)
