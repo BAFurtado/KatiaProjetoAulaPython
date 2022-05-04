@@ -49,3 +49,4 @@ for sql_file_name in os.listdir(DIR_SQL_CONSISTENCIAS):
 
 # Fecha a conexão com o banco de dados
 con.close()
+print('')

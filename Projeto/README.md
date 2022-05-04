@@ -13,9 +13,10 @@ sempre que houver registros na consulta SQL.
 
 ### Requirements
 
-1. Install duckdb 0.3.2 `píp install duckdb==0.3.2`
+1. Install `duckdb 0.3.2` `píp install duckdb==0.3.2`
 2. Install xlsxwriter `pip install xlsxwriter`
 
 # Run
 
+`cd Projeto`
 `python processa_consistencias.py`
